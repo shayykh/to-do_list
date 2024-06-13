@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 import inquirer from 'inquirer';
 console.log('Welcome to the To Do List App');
-let todos = ['Wake up at 06:00 am', 'Drink 8 glasses of water'];
+let todos = [];
 async function mainMenu() {
     const answer = await inquirer.prompt({
         type: 'list',

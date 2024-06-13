@@ -1,6 +1,6 @@
 {
   "name": "@shayykh/to-do_list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic to-list program developed via Typescript, Nodejs and Inquirer",
   "main": "index.js",
   "publishConfig": {
